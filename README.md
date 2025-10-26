@@ -64,4 +64,3 @@ The use of the `requests` library provides a high-level, human-readable interfac
     # Check a specific application
     python app_health_checker.py https://yourapplication.com
     ```
-```
